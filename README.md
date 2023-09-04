@@ -1,2 +1,2 @@
-# session1_tasks
-the tasks for the 1st software session (robotics team)
+# robotics software tasks
+the tasks for the software sessions (robotics team)
